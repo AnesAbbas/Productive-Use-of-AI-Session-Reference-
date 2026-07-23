@@ -2,7 +2,9 @@
 # The Productive Use of AI Session Reference
 
 ## Claude Cowork
-![alt text](image.png)
+<!--![alt text](image.png)-->
+<img src="image.png" style="width:100%"/>
+
 
 A GUI-based AI agent that enables Claude to access and control system resources.
 
