@@ -25,7 +25,7 @@ A GUI-based AI agent that enables Claude to access and control system resources.
 1. **Voice Profile in voice.md** (use sample emails or writing to deduce your voice)
 1. **Notifications** (found under general settings)
 1. **Claude Design** (supports sharing and exporting to diffent formats) (**Ad:** https://www.youtube.com/watch?v=t_LBECIQQqs) (**Tutorial:** https://www.youtube.com/watch?v=iHepVXGzZbs)
-1. **Zapier MCP** (for easily creating connectors that do not exist or are limited. Alows you to connect to 8000+ apps)(**Tutorial:** https://www.youtube.com/watch?v=WALe2iQvaOk)
+1. **Zapier MCP** (for easily creating connectors that do not exist or are limited. Alows you to connect to 8000+ apps)(**Tutorial:** https://www.youtube.com/watch?v=TlrwiOHL3Mk&loop=0)
 1. **Custom Connectors** (e.g. AWS vitals, etc.)
 
 ### Cowork Alternative: ChatGPT Work
