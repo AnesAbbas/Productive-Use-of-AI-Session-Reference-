@@ -85,7 +85,7 @@ Below is a shortlist for some additional useful tools for various use-cases
 -	Auto Machine Learning: **[AWS SageMaker Autopilot](https://aws.amazon.com/sagemaker/ai/autopilot/) / [Google AutoML](https://docs.cloud.google.com/gemini-enterprise-agent-platform/machine-learning/beginner/beginners-guide)**
 -	CLI-based AI agents: **[Claude Code](https://claude.com/product/claude-code) /  [ChatGPT Codex](https://chatgpt.com/codex/) / [Gemini CLI](https://geminicli.com/) / [OpenCode](https://opencode.ai/)**
 
-## Stay Updated 
+## Staying Up-to-date 
 
 - Periodically find the top connectors, skills, use-cases, etc. or come up with new ones.
 - Follow youtube channels such as the following:
