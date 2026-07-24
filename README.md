@@ -1,5 +1,5 @@
 
-# The Productive Use of AI Session Reference
+# Productive Use of AI Session Reference
 
 ## Claude Cowork
 <!--![alt text](image.png)-->
