@@ -18,7 +18,8 @@ A GUI-based AI agent that enables Claude to access and control system resources.
 1. **Artifacts** (Sharable and optionally interactable visual outputs: Docuemtns, presentations, sites, forms, diagrams, etc.)
 1. **Projects** (Rooms/Spaces) 
 1. **Dispatch**
-1. **Voice input** (ctr+d)
+1. **Voice input** (Ctrl+D)
+1. **Quick Bar From Anywhere** (Ctrl+Alt+Space)
 1. **Claude in Chrome**
 1. **Rules in CLAUDE.md** (set your rules/constitution)(you can also set global app rules from settings)
 1. **Mamory in memory.md** (remember this)
