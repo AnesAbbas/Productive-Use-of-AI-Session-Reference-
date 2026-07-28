@@ -19,7 +19,7 @@ A GUI-based AI agent that enables Claude to access and control system resources.
 1. **Projects** (Rooms/Spaces) 
 1. **Dispatch**
 1. **Voice input** (Ctrl+D)
-1. **Quick Bar From Anywhere** (Ctrl+Alt+Space)
+1. **Quick Bar** (Ctrl+Alt+Space) (invoke claude from anywhere)
 1. **Claude in Chrome**
 1. **Rules in CLAUDE.md** (set your rules/constitution)(you can also set global app rules from settings)
 1. **Mamory in memory.md** (remember this)
